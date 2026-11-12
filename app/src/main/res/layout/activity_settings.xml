@@ -1,0 +1,13 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="20dp">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/settings" android:textStyle="bold" android:textSize="24sp" android:layout_marginBottom="16dp" />
+    <com.google.android.material.button.MaterialButtonToggleGroup android:id="@+id/unitsToggle" android:layout_width="match_parent" android:layout_height="wrap_content" app:singleSelection="true" app:selectionRequired="true">
+        <com.google.android.material.button.MaterialButton android:id="@+id/kmButton" style="@style/Widget.MaterialComponents.Button.OutlinedButton" android:layout_width="0dp" android:layout_weight="1" android:layout_height="wrap_content" android:text="km" />
+        <com.google.android.material.button.MaterialButton android:id="@+id/miButton" style="@style/Widget.MaterialComponents.Button.OutlinedButton" android:layout_width="0dp" android:layout_weight="1" android:layout_height="wrap_content" android:text="mi" />
+    </com.google.android.material.button.MaterialButtonToggleGroup>
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/default_sort" android:layout_marginTop="20dp" />
+    <RadioGroup android:id="@+id/sortRadio" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <RadioButton android:id="@+id/sortName" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/sort_name" />
+        <RadioButton android:id="@+id/sortDistance" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/sort_distance" />
+    </RadioGroup>
+    <TextView android:id="@+id/settingsStatus" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="24dp" android:text="@string/demo_settings" />
+</LinearLayout>

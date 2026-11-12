@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="ElevationCurveView">
+        <attr name="curveColor" format="color"/>
+        <attr name="curveStrokeWidth" format="dimension"/>
+    </declare-styleable>
+</resources>

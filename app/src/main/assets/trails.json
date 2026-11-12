@@ -1,0 +1,302 @@
+[
+  {
+    "id": "trail_001",
+    "name": "Sentier 01",
+    "region": "Parc des Écrins",
+    "distanceKm": 3.55,
+    "elevationGainM": 85,
+    "difficulty": "MODERATE",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_002",
+    "name": "Sentier 02",
+    "region": "Auvergne",
+    "distanceKm": 4.9,
+    "elevationGainM": 170,
+    "difficulty": "HARD",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_003",
+    "name": "Sentier 03",
+    "region": "Côte d’Opale",
+    "distanceKm": 6.25,
+    "elevationGainM": 255,
+    "difficulty": "EASY",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_004",
+    "name": "Sentier 04",
+    "region": "Pyrénées",
+    "distanceKm": 7.6,
+    "elevationGainM": 340,
+    "difficulty": "MODERATE",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_005",
+    "name": "Sentier 05",
+    "region": "Jura",
+    "distanceKm": 8.95,
+    "elevationGainM": 425,
+    "difficulty": "HARD",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_006",
+    "name": "Sentier 06",
+    "region": "Massif des Vosges",
+    "distanceKm": 10.3,
+    "elevationGainM": 510,
+    "difficulty": "EASY",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_007",
+    "name": "Sentier 07",
+    "region": "Parc des Écrins",
+    "distanceKm": 11.65,
+    "elevationGainM": 595,
+    "difficulty": "MODERATE",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": true
+  },
+  {
+    "id": "trail_008",
+    "name": "Sentier 08",
+    "region": "Auvergne",
+    "distanceKm": 13.0,
+    "elevationGainM": 680,
+    "difficulty": "HARD",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_009",
+    "name": "Sentier 09",
+    "region": "Côte d’Opale",
+    "distanceKm": 14.35,
+    "elevationGainM": 0,
+    "difficulty": "EASY",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_010",
+    "name": "Sentier 10",
+    "region": "Pyrénées",
+    "distanceKm": 15.7,
+    "elevationGainM": 85,
+    "difficulty": "MODERATE",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_011",
+    "name": "Sentier 11",
+    "region": "Jura",
+    "distanceKm": 17.05,
+    "elevationGainM": 170,
+    "difficulty": "HARD",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_012",
+    "name": "Sentier 12",
+    "region": "Massif des Vosges",
+    "distanceKm": 2.2,
+    "elevationGainM": 255,
+    "difficulty": "EASY",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_013",
+    "name": "Sentier 13",
+    "region": "Parc des Écrins",
+    "distanceKm": 3.55,
+    "elevationGainM": 340,
+    "difficulty": "MODERATE",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_014",
+    "name": "Sentier 14",
+    "region": "Auvergne",
+    "distanceKm": 4.9,
+    "elevationGainM": 425,
+    "difficulty": "HARD",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": true
+  },
+  {
+    "id": "trail_015",
+    "name": "Sentier 15",
+    "region": "Côte d’Opale",
+    "distanceKm": 6.25,
+    "elevationGainM": 510,
+    "difficulty": "EASY",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_016",
+    "name": "Sentier 16",
+    "region": "Pyrénées",
+    "distanceKm": 7.6,
+    "elevationGainM": 595,
+    "difficulty": "MODERATE",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_017",
+    "name": "Sentier 17",
+    "region": "Jura",
+    "distanceKm": 8.95,
+    "elevationGainM": 680,
+    "difficulty": "HARD",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_018",
+    "name": "Sentier 18",
+    "region": "Massif des Vosges",
+    "distanceKm": 10.3,
+    "elevationGainM": 0,
+    "difficulty": "EASY",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_019",
+    "name": "Sentier 19",
+    "region": "Parc des Écrins",
+    "distanceKm": 11.65,
+    "elevationGainM": 85,
+    "difficulty": "MODERATE",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_020",
+    "name": "Sentier 20",
+    "region": "Auvergne",
+    "distanceKm": 13.0,
+    "elevationGainM": 170,
+    "difficulty": "HARD",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_021",
+    "name": "Sentier 21",
+    "region": "Côte d’Opale",
+    "distanceKm": 14.35,
+    "elevationGainM": 255,
+    "difficulty": "EASY",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": true
+  },
+  {
+    "id": "trail_022",
+    "name": "Sentier 22",
+    "region": "Pyrénées",
+    "distanceKm": 15.7,
+    "elevationGainM": 340,
+    "difficulty": "MODERATE",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_023",
+    "name": "Sentier 23",
+    "region": "Jura",
+    "distanceKm": 17.05,
+    "elevationGainM": 425,
+    "difficulty": "HARD",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_024",
+    "name": "Sentier 24",
+    "region": "Massif des Vosges",
+    "distanceKm": 2.2,
+    "elevationGainM": 510,
+    "difficulty": "EASY",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_025",
+    "name": "Sentier 25",
+    "region": "Parc des Écrins",
+    "distanceKm": 3.55,
+    "elevationGainM": 595,
+    "difficulty": "MODERATE",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_026",
+    "name": "Sentier 26",
+    "region": "Auvergne",
+    "distanceKm": 4.9,
+    "elevationGainM": 680,
+    "difficulty": "HARD",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_027",
+    "name": "Sentier 27",
+    "region": "Côte d’Opale",
+    "distanceKm": 6.25,
+    "elevationGainM": 0,
+    "difficulty": "EASY",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_028",
+    "name": "Sentier 28",
+    "region": "Pyrénées",
+    "distanceKm": 7.6,
+    "elevationGainM": 85,
+    "difficulty": "MODERATE",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": true
+  },
+  {
+    "id": "trail_029",
+    "name": "Sentier 29",
+    "region": "Jura",
+    "distanceKm": 8.95,
+    "elevationGainM": 170,
+    "difficulty": "HARD",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  },
+  {
+    "id": "trail_030",
+    "name": "Sentier 30",
+    "region": "Massif des Vosges",
+    "distanceKm": 10.3,
+    "elevationGainM": 255,
+    "difficulty": "EASY",
+    "notes": "Parcours de démonstration pour les exercices M3.",
+    "isFavorite": false
+  }
+]

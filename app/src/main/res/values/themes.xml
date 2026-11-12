@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.TrailLog" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/trail_green</item>
+        <item name="colorPrimaryVariant">@color/trail_green_dark</item>
+        <item name="colorSecondary">@color/trail_orange</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/trail_beige</item>
+    </style>
+</resources>
