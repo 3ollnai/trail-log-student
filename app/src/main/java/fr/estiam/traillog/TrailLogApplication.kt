@@ -12,7 +12,9 @@ class TrailLogApplication : Application() {
     val trails: TrailRepository by lazy {
         RoomTrailRepository(this, database, database.trailDao())
     }
-    val settings: PreferencesRepository by lazy { MemoryPreferencesRepository() } // TODO M3-LAB3: DataStore
+    val settings: PreferencesRepository by lazy {
+        DataStorePreferencesRepository(applicationContext)
+    }
     override fun onCreate() { super.onCreate(); TrailReminderWorker.ensureChannel(this) }
 }
 
