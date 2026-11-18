@@ -1,8 +1,10 @@
+> **M4 Student starter M4:** See `M4-EXERCISES.md` for student lab steps.
+
 # TrailLog — E5 Android Mobile Development
 
 Application Android native **Kotlin + XML Views**, destinée à la formation E5. Elle reprend
 les éléments d'interface M1/M2 et sert de support à **M3 Data Management**.
-Ce dépôt est le **starter étudiant M3** : les éléments M1/M2 fonctionnent ; Room, JSON et DataStore sont les objectifs M3.
+Ce dépôt est le **starter étudiant M4** : les deux anomalies sont intentionnelles pour les labs de débogage.
 
 ## Prérequis
 - Android Studio avec Android SDK API 35, émulateur Android ou appareil avec débogage USB
@@ -26,13 +28,13 @@ Le script télécharge la distribution officielle Gradle 8.13 depuis `services.g
 - La compilation et l'exécution sur émulateur n'ont **pas** été vérifiées dans l'environnement de génération : vérifier avant distribution.
 
 ## Écrans et fonctionnalités
-- Catalogue paginé `RecyclerView + Paging 3` (45 entrées fictives en mémoire ; import JSON à réaliser en M3).
+- Catalogue paginé `RecyclerView + Paging 3` (45 entrées fictives en M2, import JSON M3).
 - Détail de parcours, image d'en-tête, graphe `ElevationCurveView` en Canvas.
 - Actions Ajouter, Modifier, Supprimer, Favori, Partager ; menu de tri et Drawer.
 - Message Snackbar avec annulation de suppression tant que l'écran reste ouvert.
 - Notification de test et `CoroutineWorker` de rappel à utiliser dans un scénario avancé.
 - Ressources en français / anglais et descriptions d'accessibilité.
-- À réaliser en M3 : Room, DAO, Repository, import `assets/trails.json`, DataStore pour unités et tri.
+- Correction M3 : Room, DAO, Repository, import `assets/trails.json`, DataStore pour unités et tri.
 
 ## Limites connues
 - Le profil d'élévation affiche des données **fictives**, pas de relevé GPS.
@@ -48,4 +50,4 @@ Le script télécharge la distribution officielle Gradle 8.13 depuis `services.g
 - `data/` : interface Repository, mémoire M2, Room M3, paramètres.
 - `worker/` : notification et WorkManager.
 
-Les exercices exacts sont dans `M3-EXERCISES.md`.
+Les exercices exacts sont dans `M3-EXERCISES.md` (starter) et les choix du formateur dans `GUIDE-FORMATEUR.md` (solution).

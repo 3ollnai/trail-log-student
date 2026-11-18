@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TrailLog Student</string>
+    <string name="app_name">TrailLog</string>
     <string name="all_trails">All trails</string>
     <string name="favorites">Favorites</string>
     <string name="settings">Settings</string>

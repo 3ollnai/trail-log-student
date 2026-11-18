@@ -8,7 +8,7 @@ android {
     namespace = "fr.estiam.traillog"
     compileSdk = 35
     defaultConfig {
-        applicationId = "fr.estiam.traillog.student"
+        applicationId = "fr.estiam.traillog"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
