@@ -20,4 +20,14 @@ class TrailFormatterTest {
             assertEquals("6.2 mi", TrailFormatter.distance(10.0, DistanceUnit.MI))
         } finally { Locale.setDefault(previous) }
     }
+
+    @Test fun zeroDistanceFormatsInBothUnits() {
+        val previous = Locale.getDefault()
+        try {
+            Locale.setDefault(Locale.US)
+            assertEquals("0.0 km", TrailFormatter.distance(0.0, DistanceUnit.KM))
+            assertEquals("0.0 mi", TrailFormatter.distance(0.0, DistanceUnit.MI))
+        } finally { Locale.setDefault(previous) }
+    }
 }
+
