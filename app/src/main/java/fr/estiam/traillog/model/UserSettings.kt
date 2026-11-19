@@ -10,5 +10,5 @@ data class UserSettings(
 object TrailFormatter {
     fun distance(km: Double, unit: DistanceUnit): String =
         if (unit == DistanceUnit.KM) "%.1f km".format(java.util.Locale.getDefault(), km)
-        else "%.1f mi".format(java.util.Locale.getDefault(), km * 0.5)
+        else "%.1f mi".format(java.util.Locale.getDefault(), km * 0.621371)
 }

@@ -1,10 +1,10 @@
-> **M4 Student starter M4:** See `M4-EXERCISES.md` for student lab steps.
+> **M4 teacher correction:** See `M4-TEACHER-GUIDE.md` for defects and the correction.
 
 # TrailLog — E5 Android Mobile Development
 
 Application Android native **Kotlin + XML Views**, destinée à la formation E5. Elle reprend
 les éléments d'interface M1/M2 et sert de support à **M3 Data Management**.
-Ce dépôt est le **starter étudiant M4** : les deux anomalies sont intentionnelles pour les labs de débogage.
+Ce dépôt est la **solution formateur M3** : ne pas publier la correction dans le dépôt étudiant.
 
 ## Prérequis
 - Android Studio avec Android SDK API 35, émulateur Android ou appareil avec débogage USB
